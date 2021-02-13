@@ -1,19 +1,6 @@
-# DevDevil
+# DevDevil-A-Pie-Store
 
 This is a ASP.NET CORE MVC Project
+## Features 
 
-
-Quantity
-some Auth
-changing the cart and register location
-Discount
-coupon codes
-Trans
-FeedBack
-Userrating
-Support
-PopUps
-UserName display insted of email
-Recepit
-
-# DevDevil-A-Pie-Store
+It has a register, login and a cart functionality and some amazing css styles. 
